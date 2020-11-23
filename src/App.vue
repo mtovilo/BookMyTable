@@ -19,11 +19,3 @@ export default {
   }
 }
 </script>
-
-<style>
-body {
-  background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fweknowyourdreams.com%2Fimages%2Frestaurant%2Frestaurant-01.jpg&f=1&nofb=1");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-</style>
